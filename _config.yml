@@ -73,7 +73,7 @@ exclude:
     - LICENSE
     - README.md
 prose:
-  siteurl: 'http://jordanchunco.com
+  siteurl: 'http://jordanchunco.com'
   media: 'images'
   metadata:
     _posts:
